@@ -13,7 +13,7 @@ SECRET_KEY = 'django-insecure-2!sbs)uvf4ag3feegm6-gwofgkxhxi)oe*=#^f6uej37byk1l*
 DEBUG = True
 
 # لیست دامنه‌هایی که اجازه دسترسی به پروژه را دارند
-ALLOWED_HOSTS = ['https://psychomir.onrender.com']
+ALLOWED_HOSTS = ['psychomir.onrender.com', 'localhost', '127.0.0.1']
 
 # لیست اپلیکیشن‌های فعال در پروژه
 INSTALLED_APPS = [
